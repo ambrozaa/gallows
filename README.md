@@ -18,7 +18,7 @@ Then repeat the gem installation.
 
 To start the game enter the command:
 ```
-bundle exec ruby game.rb
+bundle exec ruby main.rb
 ```
 The list of words for the game can be edited in the file data/words.txt
 
@@ -42,6 +42,6 @@ gem bundler update
 
 Чтобы запустить игру введите команду:
 ```
-bundle exec ruby game.rb
+bundle exec ruby main.rb
 ```
 Список слов для игры может быть отредактирован в файле data/words.txt
